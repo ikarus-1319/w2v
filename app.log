@@ -1,0 +1,524 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [08/Jun/2023 16:38:46] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [08/Jun/2023 16:59:50] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [08/Jun/2023 17:06:21] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/csv_1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [10/Jun/2023 09:06:18] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 14:05:17] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 14:49:57] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:09:59] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:10:19] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:18:56] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:19:29] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:20:33] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:22:05] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:36:09] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:36:31] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:37:22] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:39:26] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:39:51] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:43:08] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 15:58:26] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:01:43] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:03:55] "POST /wav-to-txt HTTP/1.1" 200 -
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:04:05] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:04:38] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:06:00] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:07:26] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:08:25] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:08:58] "POST /wav-to-txt HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:09:33] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:10:04] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:10:19] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:11:20] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:13:33] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:14:40] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:15:15] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:15:47] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:16:12] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:21:57] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:23:55] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:25:21] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:25:57] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:28:30] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug: * Detected change in '/home/j3s/HieuPT/wav2vec/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.122.101:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 363-566-731
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'aac', '-i', '/home/j3s/HieuPT/wav2vec/123.aac', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+DEBUG:tensorflow:Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+INFO:werkzeug:192.168.122.1 - - [13/Jun/2023 16:31:34] "[35m[1mPOST /wav-to-txt HTTP/1.1[0m" 500 -
